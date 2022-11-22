@@ -29,7 +29,7 @@
             android:layout_alignParentEnd="true"
             android:layout_centerVertical="true"
             android:background="?attr/selectableItemBackgroundBorderless"
-            android:src="@drawable/baseline_menu_book_24"
+            android:src="@drawable/baseline_menu_24"
             app:tint="@color/white" />
 
     </RelativeLayout>
